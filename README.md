@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi
+
+## Coding student from south america
 
 <!--
 **Jhincita/jhincita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
